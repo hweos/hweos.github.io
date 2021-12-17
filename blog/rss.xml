@@ -4,14 +4,14 @@
         <title>My Site Blog</title>
         <link>https://endiliey.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Fri, 17 Dec 2021 07:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 07:53:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Test2]]></title>
             <link>https://endiliey.github.io/blog/Test2</link>
             <guid>Test2</guid>
-            <pubDate>Fri, 17 Dec 2021 07:40:40 GMT</pubDate>
+            <pubDate>Fri, 17 Dec 2021 07:53:15 GMT</pubDate>
             <description><![CDATA[Test2]]></description>
             <content:encoded><![CDATA[<p>Test2</p>]]></content:encoded>
         </item>
@@ -19,7 +19,7 @@
             <title><![CDATA[Demo]]></title>
             <link>https://endiliey.github.io/blog/Demo</link>
             <guid>Demo</guid>
-            <pubDate>Fri, 17 Dec 2021 07:40:40 GMT</pubDate>
+            <pubDate>Fri, 17 Dec 2021 07:53:15 GMT</pubDate>
             <description><![CDATA[Test2]]></description>
             <content:encoded><![CDATA[<p>Test2</p>]]></content:encoded>
         </item>
