@@ -4,7 +4,7 @@
         <title>Hweos Blog</title>
         <link>https://endiliey.github.io/blog</link>
         <description>Hweos Blog</description>
-        <lastBuildDate>Tue, 23 Sep 2025 11:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 12:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Test2]]></title>
             <link>https://endiliey.github.io/blog/Test2</link>
             <guid>https://endiliey.github.io/blog/Test2</guid>
-            <pubDate>Tue, 23 Sep 2025 11:16:33 GMT</pubDate>
+            <pubDate>Thu, 22 Jan 2026 12:29:35 GMT</pubDate>
             <description><![CDATA[Test2]]></description>
             <content:encoded><![CDATA[<p>Test2</p>]]></content:encoded>
             <category>hola</category>
@@ -22,7 +22,7 @@
             <title><![CDATA[Demo]]></title>
             <link>https://endiliey.github.io/blog/Demo</link>
             <guid>https://endiliey.github.io/blog/Demo</guid>
-            <pubDate>Tue, 23 Sep 2025 11:16:33 GMT</pubDate>
+            <pubDate>Thu, 22 Jan 2026 12:29:35 GMT</pubDate>
             <description><![CDATA[Test2]]></description>
             <content:encoded><![CDATA[<p>Test2</p>]]></content:encoded>
             <category>hola</category>
